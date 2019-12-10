@@ -5,7 +5,27 @@
              Title="{Binding Title}">
 
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="Welcome to Xamarin Forms and Prism!" />
+        <Label Text="Appointment App"
+              FontSize="15"
+              FontAttributes="Bold"
+              HorizontalOptions="Center" />
+        <Label Text="username"/>
+        <Editor Placeholder="Enter Name" Text="{Binding Name}"/>
+
+        <Label Text="password"/>
+        <Editor Placeholder="Enter password" Text="{Binding Gender}"/>
+
+
+        <Button Text="Login" Command="{Binding HomePage}" />
+        <Button Text="Sign up" Command="{Binding SignUp}" />
+
+
+
+
+
+
     </StackLayout>
 
 </ContentPage>
+
+  
