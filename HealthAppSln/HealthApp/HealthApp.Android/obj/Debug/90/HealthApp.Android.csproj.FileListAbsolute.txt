@@ -561,3 +561,7 @@ C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\stamp
 C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\res\drawable\hospital.png
+C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\res\drawable\doctor.jpg
+C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\res\drawable\medical.jpg
+C:\Xamarin\HealthApp\HealthAppSln\HealthApp\HealthApp.Android\obj\Debug\90\res\drawable\medicaltools.jpg
