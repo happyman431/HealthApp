@@ -14,7 +14,7 @@
         <Label Text="This is an appointment app for public hospitals"/>
 
 
-        <Button Text="To Go To Appointment Page" Command="{Binding AppointmentCommand}" />
+        <Button Text="To Go To Appointment Page" Command="{Binding Menu}" />
 
 
 

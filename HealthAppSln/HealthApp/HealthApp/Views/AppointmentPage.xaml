@@ -4,9 +4,13 @@
              xmlns:prism="http://prismlibrary.com"
              prism:ViewModelLocator.AutowireViewModel="True"
              x:Class="HealthApp.Views.AppointmentPage" BackgroundImageSource="Hospital">
-
+        
     <StackLayout>
         <!-- Place new controls here -->
+
+        
+
+
         <Label Text="Appointment App"
               FontSize="15"
               FontAttributes="Bold"
@@ -28,6 +32,9 @@
         
         <Label Text="Date of Appointment"/>
         <DatePicker Format="D" VerticalOptions="CenterAndExpand" Margin="10, 0" Date="{Binding DateOfAppointment}" />
+        <Button Text="Save" Command="{Binding SaveCommand}" />
+        <Button Text="Cancel" Command="{Binding CancelCommand}" />
+
 
 
     </StackLayout>
